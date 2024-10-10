@@ -7,9 +7,13 @@ terraform {
   }
 }
 
+# Importar las variables desde el archivo credentials.tfvars
+variable "access_key" {}
+variable "secret_key" {}
+
 provider "aws" {
-  access_key = "AKIAXWMA6FPNYH57V36J"
-  secret_key = "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"
+  access_key = var.access_key
+  secret_key = var.secret_key
   region     = "us-east-1" # Cambia la región si lo necesitas
 }
 
