@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/user-attachments/assets/458e8672-2463-49f9-880e-c4beb3118674)
 
-![VPC](https://github.com/user-attachments/assets/a29276c3-2d05-4c81-b1dd-5f1565d9f7c6)
+![VPC](https://github.com/user-attachments/assets/dda9d4c7-776b-416a-a4b0-291831597980)
 
 ### Estructura de archivo de credenciale
 
